@@ -1,0 +1,28 @@
+{
+  "name": "@mooe2708/signalrekt",
+  "version": "1.0.0",
+  "description": "hello tea ",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mooe2708/signalrekt.git"
+  },
+  "keywords": [
+    "welcome",
+    "tea",
+    "family"
+  ],
+  "author": "mooe2708",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mooe2708/signalrekt/issues"
+  },
+  "homepage": "https://github.com/mooe2708/signalrekt#readme",
+  "dependencies": {
+    "@mooe2708/signalrekt": "^1.0.0",
+    "signalrekt": "^1.0.0"
+  }
+}
